@@ -1,0 +1,124 @@
+/*
+ TODO：请补充代码
+*/
+*{
+    margin: 0;
+    padding: 0;
+}
+.w{
+    width: 1024px;
+    margin: auto;
+    font-size: 16px;
+}
+li{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+.box1{
+    height: 486px;
+    background-color: #a6b1e1;
+}
+.header{
+    height: 46px;
+}
+.nav{
+    margin-left: 365px;
+    float: right;
+}
+.header span{
+    float: left;
+    margin-top: 13px;
+    margin-left: 16px;
+    font-size: 18px;
+    color: white;
+}
+.nav{
+    float: left;
+    margin-top: 13px;
+    margin-left: 365px;
+}
+.nav ul li{
+    float: left;
+    margin-left: 16px;
+}
+.nav ul li a{
+    color: white;
+}
+.banner h1{
+    width: 200px;
+    font-size: 45px;
+    font-weight: normal;
+    color: black;
+    margin: 30px auto 62px auto;
+}
+.banner h2{
+    width: 260px;
+    margin: 0 auto 36px auto;
+    font-size: 21px;
+    font-weight: 200;
+    color: white;
+}
+.engagement{
+    width: 102px;
+    height: 40px;
+    margin: auto;
+    box-shadow: inset 0 0 0 2px #efbfbf;
+    border-radius: 2px;
+    text-align: center;
+    line-height: 40px;
+}
+.engagement a{
+    font-size: 18px;
+    color: #efbfbf;
+}
+.box2{
+    height: 376px;
+}
+.box2 ul{
+    margin-top: 74px;
+    height: 144px;
+}
+.box2 ul li{
+    width: 480px;
+    float: left;
+    margin-left: 20px;
+}
+.box2 ul li h1{
+    margin-bottom: 15px;
+    font-size: 30px;
+    font-weight: 200;
+    color: black;
+}
+.box2 ul li span{
+    font-size: 18px;
+    color: #aaa;
+    line-height: 1.4em;
+}
+.box2 .top{
+    margin-bottom: 14px;
+}
+.box2 .left{
+    margin-right: 20px;
+}
+.box3{
+    border-top: #aaa 1px solid;
+}
+.footer{
+    padding-top: 30px;
+    height: 50px;
+}
+.footer .first{
+    margin: auto;
+    width: 128px;
+    font-size: 14px;
+    color: #aaa;
+}
+.footer .second{
+    margin: auto;
+    width: 400px;
+    margin-top: 10px;
+    font-size: 14px;
+    color: #aaa;
+}
