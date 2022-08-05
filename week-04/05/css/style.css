@@ -1,0 +1,112 @@
+/*TODO：请补充代码*/
+*{
+    padding: 0;
+    margin: 0;
+}
+.banner{
+    position: relative;
+    width: 1920px;
+    height: 753px;
+    background: url('../images/banner-bg.png'),no-repeat;
+}
+.banner-title{
+    position: absolute;
+    left: 50%;
+    margin-left: -320px;
+    top: 52px;
+    width: 640px;
+    height: 440.14px;
+}
+.buttom{
+    position: relative;
+    height: 745px;
+    width: 1920px;
+    background-color: #2873F9;
+}
+.part-1{
+    position: absolute;
+    top: -75px;
+    margin-left: 424px;
+    z-index: 2;
+}
+.part-1 .part-title{
+    position: absolute;
+    display: inline-block;
+    width: 380px;
+    height: 28px;
+    top: 103px;
+    left: 346px;
+    font-size: 20px;
+    font-family: PingFang SC;
+    color: #EC6853;
+}
+.small-left{
+    position: absolute;
+    top: 112px;
+    left: 314px;
+}
+.small-right {
+    position: absolute;
+    top: 112px;
+    right: 314px;
+}
+.content{
+    position: absolute;
+    top: 170.63px;
+}
+.content li {
+    float: left;
+    list-style: none;
+    margin-left: 74px;
+    margin-bottom: 40px;
+    text-align: center;
+}
+.content li h3{
+    margin: 0 auto;
+    margin-top: 14.37px;
+    font-size: 20px;
+    color: #333333;
+}
+.content .con-first1{
+    margin-left: 51px;
+}
+.content .con-first2 {
+    margin-left: 45px;
+}
+.special{
+    margin-left: 68px;
+}
+.content .con-first2 span{
+    width: 202px;
+}
+.content span{
+    width: 187px;
+    display: inline-block;
+    margin-top: 10px;
+    font-size: 16px;
+    color: #666666;
+}
+.content .con-first2 img{
+    width: 60px;
+    margin-left: 70px;
+}
+.content .con-first2 .label{
+    float: right;
+    margin-left: 0;
+}
+.btn{
+    position: absolute;
+    bottom: 60px;
+    right: 246px;
+}
+.left{
+    position: absolute;
+    left: 243.95px;
+    top: 499.47px;
+}
+
+.right{
+    position: absolute;
+    right: 243.95px;
+    top: 499.47px;
+}
